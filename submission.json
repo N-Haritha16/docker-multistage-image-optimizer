@@ -1,0 +1,64 @@
+{
+  "compiledlanguage": {
+    "language": "go",
+    "naive": {
+      "uncompressed_size_mb": 1310,
+      "compressed_size_mb": 316.93,
+      "layer_count": 16,
+      "wasted_bytes_kb": 993070,
+      "efficiency_score_percent": 24.2,
+      "cve_critical": 0,
+      "cve_high": 0,
+      "cve_medium": 0,
+      "cve_low": 0,
+      "cold_build_time_sec": 15,
+      "warm_build_time_sec": 4,
+      "shell_accessible": true
+    },
+    "multistage": {
+      "uncompressed_size_mb": 17.4,
+      "compressed_size_mb": 4.84,
+      "layer_count": 18,
+      "wasted_bytes_kb": 12560,
+      "efficiency_score_percent": 27.8,
+      "cve_critical": 0,
+      "cve_high": 0,
+      "cve_medium": 0,
+      "cve_low": 0,
+      "cold_build_time_sec": 26,
+      "warm_build_time_sec": 3,
+      "shell_accessible": false
+    }
+  },
+  "interpretedlanguage": {
+    "language": "nodejs",
+    "naive": {
+      "uncompressed_size_mb": 1590,
+      "compressed_size_mb": 398.6,
+      "layer_count": 18,
+      "wasted_bytes_kb": 1191400,
+      "efficiency_score_percent": 25.1,
+      "cve_critical": 0,
+      "cve_high": 0,
+      "cve_medium": 0,
+      "cve_low": 0,
+      "cold_build_time_sec": 11,
+      "warm_build_time_sec": 6,
+      "shell_accessible": true
+    },
+    "multistage": {
+      "uncompressed_size_mb": 199,
+      "compressed_size_mb": 48.86,
+      "layer_count": 16,
+      "wasted_bytes_kb": 150140,
+      "efficiency_score_percent": 24.6,
+      "cve_critical": 0,
+      "cve_high": 0,
+      "cve_medium": 0,
+      "cve_low": 0,
+      "cold_build_time_sec": 9,
+      "warm_build_time_sec": 1,
+      "shell_accessible": true
+    }
+  }
+}
